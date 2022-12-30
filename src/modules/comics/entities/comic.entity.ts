@@ -1,21 +1,17 @@
-import User from 'src/modules/users/entities/user.entity';
-import {
-  Column,
-  Entity,
-  JoinColumn,
-  OneToOne,
-  PrimaryGeneratedColumn,
-} from 'typeorm';
+import { Role } from 'src/enum/role.enum';
+import { ResponseParams } from 'src/types/response-params.type';
+import { Column, Entity, PrimaryColumn } from 'typeorm';
+import { ComicController } from '../controllers/comic.controller';
 
 @Entity()
 export class Comic {
-  @PrimaryGeneratedColumn()
-  id: number;
+  @PrimaryColumn()
+  id: string;
 
   @Column()
   title: string;
 
-  @Column()
+  @Column({ type: 'text' })
   description: string;
 
   @Column({ type: 'text' })
@@ -30,7 +26,7 @@ export class Comic {
   @Column()
   likes: number;
 
-  @Column()
+  @Column({ type: 'datetime', default: () => 'CURRENT_TIMESTAMP' })
   date: string;
 
   @Column({ default: 1 })
@@ -38,4 +34,23 @@ export class Comic {
 
   @Column()
   author: string;
+
+  response(option?: ResponseParams) {
+    const { context, role } = option ?? {};
+
+    if (context?.route === ComicController.prototype.findAll.name)
+      return { id: this.id, avt: this.avt, title: this.title };
+
+    return {
+      id: this.id,
+      avt: this.avt,
+      date: this.date,
+      description: this.description,
+      introduction: this.introduction,
+      likes: this.likes,
+      title: this.title,
+      views: this.views,
+      author: this.author,
+    };
+  }
 }

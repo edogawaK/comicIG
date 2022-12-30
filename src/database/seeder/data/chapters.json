@@ -1,0 +1,3442 @@
+[
+  {
+    "comicId": "5eb50a2aaa63450033ea5ab6",
+    "comicSlug": "hau-nu-va-cong-tuoc-ma-ca-rong",
+    "id": "5eb50a61aa63450033ea5ab7",
+    "slug": "chuong-1",
+    "name": "Chương 1",
+    "view": 90364
+  },
+  {
+    "comicId": "5eb50a2aaa63450033ea5ab6",
+    "comicSlug": "hau-nu-va-cong-tuoc-ma-ca-rong",
+    "id": "5eb51db0aa63450033ea5b3d",
+    "slug": "chuong-2",
+    "name": "Chương 2",
+    "view": 53375
+  },
+  {
+    "comicId": "5eb50a2aaa63450033ea5ab6",
+    "comicSlug": "hau-nu-va-cong-tuoc-ma-ca-rong",
+    "id": "5eb8c56faa63450033ea5bc8",
+    "slug": "chuong-3",
+    "name": "Chương 3",
+    "view": 45082
+  },
+  {
+    "comicId": "5eb50a2aaa63450033ea5ab6",
+    "comicSlug": "hau-nu-va-cong-tuoc-ma-ca-rong",
+    "id": "5eb8c612aa63450033ea5bc9",
+    "slug": "chuong-4",
+    "name": "Chương 4",
+    "view": 48126
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5eb51387aa63450033ea5af8",
+    "slug": "chuong-1-ly-do-nghi-viec-1",
+    "name": "Chương 1: Lý do nghỉ việc (1)",
+    "view": 145225
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5eb513e0aa63450033ea5af9",
+    "slug": "chuong-2-ly-do-nghi-viec-2",
+    "name": "Chương 2: Lý do nghỉ việc (2)",
+    "view": 79705
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5eb8d53aaa63450033ea5bf0",
+    "slug": "chuong-3-ly-do-nghi-viec-3",
+    "name": "Chương 3: Lý do nghỉ việc (3)",
+    "view": 69467
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5eb8dcfdaa63450033ea5c1e",
+    "slug": "chuong-4-oan-gia-ngo-hep",
+    "name": "Chương 4: Oan gia ngõ hẹp",
+    "view": 60210
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5eb8dd64aa63450033ea5c1f",
+    "slug": "chuong-5-luong-tong-tro-ve",
+    "name": "Chương 5: Lương Tổng trở về",
+    "view": 55073
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5eb8de9caa63450033ea5c20",
+    "slug": "chuong-6-anh-hung-diet-rong",
+    "name": "Chương 6: Anh hùng diệt rồng",
+    "view": 51524
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5eb8e020aa63450033ea5c21",
+    "slug": "chuong-7-ngoai-truyen-valentine",
+    "name": "Chương 7: Ngoại truyện Valentine",
+    "view": 49350
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5eb8e086aa63450033ea5c22",
+    "slug": "chuong-8-sao-toi-lai-xui-xeo-nhu-the",
+    "name": "Chương 8: Sao tôi lại xui xẻo như thế?",
+    "view": 48562
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5eb8e1e3aa63450033ea5c23",
+    "slug": "chuong-9-toi-khong-tin-toi-chi-co-3-ngan",
+    "name": "Chương 9: Tôi không tin tôi chỉ có 3 ngàn",
+    "view": 46248
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5eb8e2d0aa63450033ea5c24",
+    "slug": "chuong-10-nhat-quyet-khong-nhuong-bo",
+    "name": "Chương 10: Nhất quyết không nhượng bộ!",
+    "view": 46242
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5eb8e384aa63450033ea5c25",
+    "slug": "chuong-11-chay-troi-khong-khoi-nang",
+    "name": "Chương 11: Chạy trời không khỏi nắng",
+    "view": 41069
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5eb8e3ecaa63450033ea5c26",
+    "slug": "chuong-12-chao-mung-den-cong-ty-ngai-gau-tui",
+    "name": "Chương 12: Chào mừng đến công ty, ngài Gấu Túi!",
+    "view": 37072
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5eb8e5e9aa63450033ea5c2b",
+    "slug": "chuong-13-fandom-998-nguoi",
+    "name": "Chương 13: Fandom 998 người",
+    "view": 34722
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5eb8e63caa63450033ea5c2c",
+    "slug": "chuong-14-nghi-viec-sao-ma-kho-qua",
+    "name": "Chương 14: Nghỉ việc sao mà khó quá",
+    "view": 34457
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5eb8f8afaa63450033ea5c66",
+    "slug": "chuong-15-ngoai-truyen-mot-ngay-cua-fangirl",
+    "name": "Chương 15: Ngoại truyện một ngày của fangirl",
+    "view": 32221
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5ec2208dacc698003475442b",
+    "slug": "chuong-16-chiec-nam-than-ky",
+    "name": "Chương 16: Chiếc nấm thần kỳ",
+    "view": 31801
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5ec39537acc69800347545a4",
+    "slug": "chuong-17-vua-lang-man-vua-kinh-di",
+    "name": "Chương 17: Vừa lãng mạn vừa kinh dị",
+    "view": 30209
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5ec3964aacc69800347545a6",
+    "slug": "chuong-18-bach-ngua-hien-nguyen-hinh",
+    "name": "Chương 18: Bạch Ngựa hiện nguyên hình",
+    "view": 26889
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5ec3972cacc69800347545ac",
+    "slug": "chuong-19-tro-ly-tac-gia-muon-nghi-viec",
+    "name": "Chương 19: Trợ lý, tác giả muốn nghỉ việc!",
+    "view": 28048
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5ec39845acc69800347545ad",
+    "slug": "chuong-20-dam-me",
+    "name": "Chương 20: Đam mê",
+    "view": 26284
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5ec399a8acc69800347545ae",
+    "slug": "chuong-21-bo-tac-gia-em-lai-muon-nghi-viec",
+    "name": "Chương 21: Bớ Tác Giả em lại muốn nghỉ việc!",
+    "view": 27947
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5ec39aedacc69800347545b8",
+    "slug": "chuong-22-co-gian",
+    "name": "Chương 22: Có gián!",
+    "view": 25204
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5ec39bf4acc69800347545ba",
+    "slug": "chuong-23-thang-hay-la-cong",
+    "name": "Chương 23: Thẳng hay là cong",
+    "view": 25143
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5ec39cc8acc69800347545bb",
+    "slug": "chuong-24-thi-dai-hoc",
+    "name": "Chương 24: Thi Đại Học",
+    "view": 22486
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5ec39f0eacc69800347545c2",
+    "slug": "chuong-25-ngap-lut-la-do-ai",
+    "name": "Chương 25: Ngập lụt là do ai?",
+    "view": 21730
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5ec39fc3acc69800347545c4",
+    "slug": "chuong-26-sap-bay",
+    "name": "Chương 26: Sập bẫy",
+    "view": 20986
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5ec3a0baacc69800347545c7",
+    "slug": "chuong-27-khac-tinh-cua-luong-tong",
+    "name": "Chương 27: Khắc tinh của Lương Tổng",
+    "view": 21145
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5ec4f56cacc69800347547ab",
+    "slug": "chuong-28-ngoai-truyen-nho-rung",
+    "name": "Chương 28: Ngoại truyện Nhớ Rừng",
+    "view": 20228
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5ec4f5ccacc69800347547ac",
+    "slug": "chuong-29-moi-tinh-dau-trinh-trang",
+    "name": "Chương 29: Mối tình đầu trinh trắng",
+    "view": 22173
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5ec4f687acc69800347547ad",
+    "slug": "chuong-30-lau-roi-chung-toi-moi-di-xem-phim-1",
+    "name": "Chương 30: Lâu rồi chúng tôi mới đi xem phim (1)",
+    "view": 20765
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5ec4f742acc69800347547af",
+    "slug": "chuong-31-lau-roi-chung-toi-moi-di-xem-phim-2",
+    "name": "Chương 31: Lâu rồi chúng tôi mới đi xem phim (2)",
+    "view": 19002
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5ec9674e0687870034da7f75",
+    "slug": "chuong-32",
+    "name": "Chương 32",
+    "view": 18963
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5ec967720687870034da7f76",
+    "slug": "chuong-33",
+    "name": "Chương 33",
+    "view": 17899
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5ec967990687870034da7f77",
+    "slug": "chuong-34",
+    "name": "Chương 34",
+    "view": 17610
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5ec967e50687870034da7f79",
+    "slug": "chuong-35",
+    "name": "Chương 35",
+    "view": 16776
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5ec967bc0687870034da7f78",
+    "slug": "chuong-36",
+    "name": "Chương 36",
+    "view": 16692
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5ec9680a0687870034da7f7a",
+    "slug": "chuong-37",
+    "name": "Chương 37",
+    "view": 16035
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5ec968280687870034da7f7b",
+    "slug": "chuong-38",
+    "name": "Chương 38",
+    "view": 16089
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5ec968500687870034da7f7c",
+    "slug": "chuong-39",
+    "name": "Chương 39",
+    "view": 15440
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5ed867eaa268220034e735f9",
+    "slug": "chuong-40",
+    "name": "Chương 40",
+    "view": 16574
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5ee1d955e3d0a70034a666cb",
+    "slug": "chuong-41",
+    "name": "Chương 41",
+    "view": 15588
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5eec92e078c5390034f5f457",
+    "slug": "chuong-42",
+    "name": "Chương 42",
+    "view": 15076
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5ef520497bd02a0034a901d7",
+    "slug": "chuong-43",
+    "name": "Chương 43",
+    "view": 14413
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5efed377f6e78e15927742a2",
+    "slug": "chuong-44",
+    "name": "Chương 44",
+    "view": 14368
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5f0c2c98cc004a0034846047",
+    "slug": "chuong-45",
+    "name": "Chương 45",
+    "view": 14860
+  },
+  {
+    "comicId": "5eb5114faa63450033ea5acd",
+    "comicSlug": "tac-gia-em-muon-nghi-viec",
+    "id": "5f193501cc004a0034846c7a",
+    "slug": "chuong-46",
+    "name": "Chương 46",
+    "view": 23432
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5eb8d4ddaa63450033ea5bed",
+    "slug": "chuong-1",
+    "name": "Chương 1",
+    "view": 41022
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5eb8d503aa63450033ea5bee",
+    "slug": "chuong-2",
+    "name": "Chương 2",
+    "view": 12985
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5eb8d519aa63450033ea5bef",
+    "slug": "chuong-3",
+    "name": "Chương 3",
+    "view": 9001
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5eb8d57aaa63450033ea5bf1",
+    "slug": "chuong-4",
+    "name": "Chương 4",
+    "view": 7658
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5eb8d58baa63450033ea5bf2",
+    "slug": "chuong-5",
+    "name": "Chương 5",
+    "view": 7155
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5eb8d59caa63450033ea5bf3",
+    "slug": "chuong-6",
+    "name": "Chương 6",
+    "view": 6676
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5eb8d5afaa63450033ea5bf4",
+    "slug": "chuong-7",
+    "name": "Chương 7",
+    "view": 6302
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5eb8d648aa63450033ea5bf5",
+    "slug": "chuong-8",
+    "name": "Chương 8",
+    "view": 6016
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5eb8d670aa63450033ea5bf7",
+    "slug": "chuong-9",
+    "name": "Chương 9",
+    "view": 5743
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5eb8d680aa63450033ea5bf8",
+    "slug": "chuong-10",
+    "name": "Chương 10",
+    "view": 6284
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5eb8d690aa63450033ea5bf9",
+    "slug": "chuong-11",
+    "name": "Chương 11",
+    "view": 5598
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5eb8e4afaa63450033ea5c27",
+    "slug": "chuong-12",
+    "name": "Chương 12",
+    "view": 5201
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5eb8e4ceaa63450033ea5c28",
+    "slug": "chuong-13",
+    "name": "Chương 13",
+    "view": 5131
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5eb8e4e5aa63450033ea5c29",
+    "slug": "chuong-14",
+    "name": "Chương 14",
+    "view": 5055
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5eb8e4fcaa63450033ea5c2a",
+    "slug": "chuong-15",
+    "name": "Chương 15",
+    "view": 4930
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5ec1fd07acc69800347543d0",
+    "slug": "chuong-16",
+    "name": "Chương 16",
+    "view": 4822
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5ec1fe56acc69800347543d1",
+    "slug": "chuong-17",
+    "name": "Chương 17",
+    "view": 4774
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5ec20280acc69800347543e2",
+    "slug": "chuong-18",
+    "name": "Chương 18",
+    "view": 4759
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5ec202a6acc69800347543e3",
+    "slug": "chuong-19",
+    "name": "Chương 19",
+    "view": 4721
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5ec202b4acc69800347543e4",
+    "slug": "chuong-20",
+    "name": "Chương 20",
+    "view": 5099
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5ec202c9acc69800347543e5",
+    "slug": "chuong-21",
+    "name": "Chương 21",
+    "view": 4662
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5ec202d8acc69800347543e6",
+    "slug": "chuong-22",
+    "name": "Chương 22",
+    "view": 4454
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5ec202e5acc69800347543e7",
+    "slug": "chuong-23",
+    "name": "Chương 23",
+    "view": 4330
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5ec20330acc69800347543e8",
+    "slug": "chuong-24",
+    "name": "Chương 24",
+    "view": 4157
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5ec20342acc69800347543e9",
+    "slug": "chuong-25",
+    "name": "Chương 25",
+    "view": 4037
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5ec20355acc69800347543ea",
+    "slug": "chuong-26",
+    "name": "Chương 26",
+    "view": 3973
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5ec20366acc69800347543eb",
+    "slug": "chuong-27",
+    "name": "Chương 27",
+    "view": 3915
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5ec20376acc69800347543ec",
+    "slug": "chuong-28",
+    "name": "Chương 28",
+    "view": 3855
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5ec20385acc69800347543ed",
+    "slug": "chuong-29",
+    "name": "Chương 29",
+    "view": 3821
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5ec20399acc69800347543ee",
+    "slug": "chuong-30",
+    "name": "Chương 30",
+    "view": 4232
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5ec203b0acc69800347543ef",
+    "slug": "chuong-31",
+    "name": "Chương 31",
+    "view": 3841
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5ec203c1acc69800347543f0",
+    "slug": "chuong-32",
+    "name": "Chương 32",
+    "view": 3636
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5ec203daacc69800347543f1",
+    "slug": "chuong-33",
+    "name": "Chương 33",
+    "view": 3719
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5ec203eeacc69800347543f2",
+    "slug": "chuong-34",
+    "name": "Chương 34",
+    "view": 3422
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5ec20dd0acc6980034754400",
+    "slug": "chuong-35",
+    "name": "Chương 35",
+    "view": 3548
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5ecb310a0687870034da7f7d",
+    "slug": "chuong-36",
+    "name": "Chương 36",
+    "view": 3574
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5ed49277a268220034e7333b",
+    "slug": "chuong-37",
+    "name": "Chương 37",
+    "view": 3425
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5eddf371e3d0a70034a6637c",
+    "slug": "chuong-38",
+    "name": "Chương 38",
+    "view": 3386
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5ee31f60e3d0a70034a667d5",
+    "slug": "chuong-39",
+    "name": "Chương 39",
+    "view": 3443
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5ef0102278c5390034f5f4b1",
+    "slug": "chuong-40",
+    "name": "Chương 40",
+    "view": 3638
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5ef599f4ad46de0034ab9c01",
+    "slug": "chuong-41",
+    "name": "Chương 41",
+    "view": 3426
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5efeb620f6e78e1592774256",
+    "slug": "chuong-42",
+    "name": "Chương 42",
+    "view": 3101
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5f053d08cc004a0034845aff",
+    "slug": "chuong-43",
+    "name": "Chương 43",
+    "view": 3282
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5f07e1c6cc004a0034845e20",
+    "slug": "chuong-44",
+    "name": "Chương 44",
+    "view": 2907
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5f115572cc004a00348466c6",
+    "slug": "chuong-45",
+    "name": "Chương 45",
+    "view": 3008
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5f1a8411cc004a0034846ed9",
+    "slug": "chuong-46",
+    "name": "Chương 46",
+    "view": 2784
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5f27b1950500af00348c681f",
+    "slug": "chuong-47",
+    "name": "Chương 47",
+    "view": 2689
+  },
+  {
+    "comicId": "5eb8d46eaa63450033ea5beb",
+    "comicSlug": "50-sac-mau",
+    "id": "5f2d2b5e75e3780034b44a0f",
+    "slug": "chuong-48",
+    "name": "Chương 48",
+    "view": 3706
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5eb90e97aa63450033ea5c93",
+    "slug": "chuong-0",
+    "name": "Chương 0",
+    "view": 203109
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5eb90f16aa63450033ea5c94",
+    "slug": "chuong-1",
+    "name": "Chương 1",
+    "view": 128130
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5eb90fe7aa63450033ea5c95",
+    "slug": "chuong-2",
+    "name": "Chương 2",
+    "view": 93534
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5eb91073aa63450033ea5c99",
+    "slug": "chuong-3",
+    "name": "Chương 3",
+    "view": 81032
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5eb91166aa63450033ea5c9b",
+    "slug": "chuong-4",
+    "name": "Chương 4",
+    "view": 69875
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5eb911c0aa63450033ea5c9c",
+    "slug": "chuong-5",
+    "name": "Chương 5",
+    "view": 65099
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5eb91293aa63450033ea5c9d",
+    "slug": "chuong-6",
+    "name": "Chương 6",
+    "view": 59942
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5eb91373aa63450033ea5c9e",
+    "slug": "chuong-7",
+    "name": "Chương 7",
+    "view": 56821
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5eb91415aa63450033ea5ca0",
+    "slug": "chuong-8",
+    "name": "Chương 8",
+    "view": 55651
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5eb9147daa63450033ea5ca1",
+    "slug": "chuong-9",
+    "name": "Chương 9",
+    "view": 79642
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5ebfb528acc69800347542fb",
+    "slug": "chuong-10",
+    "name": "Chương 10",
+    "view": 59434
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5ebfbcc3acc698003475431a",
+    "slug": "chuong-11",
+    "name": "Chương 11",
+    "view": 49922
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5ebfbfc0acc698003475431d",
+    "slug": "chuong-12",
+    "name": "Chương 12",
+    "view": 51476
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5ebfc09dacc6980034754326",
+    "slug": "chuong-13",
+    "name": "Chương 13",
+    "view": 48650
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5ebfc10eacc698003475432f",
+    "slug": "chuong-14",
+    "name": "Chương 14",
+    "view": 45016
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5ebfc161acc6980034754332",
+    "slug": "chuong-15",
+    "name": "Chương 15",
+    "view": 43590
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5ec21c12acc6980034754427",
+    "slug": "chuong-16",
+    "name": "Chương 16",
+    "view": 40930
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5ec38f16acc698003475459a",
+    "slug": "chuong-17",
+    "name": "Chương 17",
+    "view": 38282
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5ec38fc0acc698003475459b",
+    "slug": "chuong-18",
+    "name": "Chương 18",
+    "view": 37040
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5ec3907eacc698003475459c",
+    "slug": "chuong-19",
+    "name": "Chương 19",
+    "view": 43343
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5ec4f36aacc69800347547a5",
+    "slug": "chuong-20",
+    "name": "Chương 20",
+    "view": 39349
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5ec4f3cfacc69800347547a7",
+    "slug": "chuong-21",
+    "name": "Chương 21",
+    "view": 36220
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5ec4f403acc69800347547a8",
+    "slug": "chuong-22",
+    "name": "Chương 22",
+    "view": 35056
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5ec621e84b80f100348ddce7",
+    "slug": "chuong-23",
+    "name": "Chương 23",
+    "view": 34125
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5ec64d084b80f100348ddd71",
+    "slug": "chuong-24",
+    "name": "Chương 24",
+    "view": 34485
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5ec64d494b80f100348ddd72",
+    "slug": "chuong-25",
+    "name": "Chương 25",
+    "view": 37549
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5ec956070687870034da7f65",
+    "slug": "chuong-26",
+    "name": "Chương 26",
+    "view": 34228
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5ec956d30687870034da7f66",
+    "slug": "chuong-27",
+    "name": "Chương 27",
+    "view": 33298
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5ec957650687870034da7f67",
+    "slug": "chuong-28",
+    "name": "Chương 28",
+    "view": 37136
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5ec958070687870034da7f68",
+    "slug": "ngoai-truyen",
+    "name": "Ngoại truyện",
+    "view": 54945
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5ec958350687870034da7f69",
+    "slug": "chuong-29",
+    "name": "Chương 29",
+    "view": 42637
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5ec959720687870034da7f6a",
+    "slug": "chuong-30",
+    "name": "Chương 30",
+    "view": 35264
+  },
+  {
+    "comicId": "5eb90e09aa63450033ea5c92",
+    "comicSlug": "anh-trai-toi-la-khung-long",
+    "id": "5ec95a4b0687870034da7f6b",
+    "slug": "chuong-31",
+    "name": "Chương 31",
+    "view": 70616
+  },
+  {
+    "comicId": "5ebfc052acc6980034754322",
+    "comicSlug": "designed-generation",
+    "id": "5ebfc0eaacc698003475432c",
+    "slug": "chuong-1",
+    "name": "Chương 1",
+    "view": 500
+  },
+  {
+    "comicId": "5ebfc052acc6980034754322",
+    "comicSlug": "designed-generation",
+    "id": "5ebfc1ebacc6980034754335",
+    "slug": "chuong-2",
+    "name": "chương 2",
+    "view": 272
+  },
+  {
+    "comicId": "5ebfcb54acc698003475433e",
+    "comicSlug": "sol-city",
+    "id": "5ebfcb77acc698003475433f",
+    "slug": "chuong-1",
+    "name": "Chương 1",
+    "view": 597
+  },
+  {
+    "comicId": "5ebfcb54acc698003475433e",
+    "comicSlug": "sol-city",
+    "id": "5ebfcb90acc6980034754340",
+    "slug": "chuong-2",
+    "name": "Chương 2",
+    "view": 172
+  },
+  {
+    "comicId": "5ebfcb54acc698003475433e",
+    "comicSlug": "sol-city",
+    "id": "5eddf95de3d0a70034a6638b",
+    "slug": "chuong-3",
+    "name": "Chương 3",
+    "view": 168
+  },
+  {
+    "comicId": "5ebfcb54acc698003475433e",
+    "comicSlug": "sol-city",
+    "id": "6077ae4ae09bb36605a742df",
+    "slug": "chuong-4",
+    "name": "Chương 4",
+    "view": 60
+  },
+  {
+    "comicId": "5ebfcb54acc698003475433e",
+    "comicSlug": "sol-city",
+    "id": "6077ae50e09bb36605a742e1",
+    "slug": "chuong-5",
+    "name": "Chương 5",
+    "view": 53
+  },
+  {
+    "comicId": "5ebfcb54acc698003475433e",
+    "comicSlug": "sol-city",
+    "id": "6077ae56e09bb36605a742e3",
+    "slug": "chuong-6",
+    "name": "Chương 6",
+    "view": 60
+  },
+  {
+    "comicId": "5ebfcb54acc698003475433e",
+    "comicSlug": "sol-city",
+    "id": "60990fb5dff1c9005a60065f",
+    "slug": "chuong-7",
+    "name": "chương 7",
+    "view": 48
+  },
+  {
+    "comicId": "5ebfcb54acc698003475433e",
+    "comicSlug": "sol-city",
+    "id": "60990fc0138537005ee8f77b",
+    "slug": "chuong-8",
+    "name": "chương 8",
+    "view": 49
+  },
+  {
+    "comicId": "5ebfcb54acc698003475433e",
+    "comicSlug": "sol-city",
+    "id": "60990fcfdff1c9005a600661",
+    "slug": "chuong-9",
+    "name": "chương 9",
+    "view": 39
+  },
+  {
+    "comicId": "5ebfcb54acc698003475433e",
+    "comicSlug": "sol-city",
+    "id": "60990fd8138537005ee8f77d",
+    "slug": "chuong-10",
+    "name": "chương 10",
+    "view": 47
+  },
+  {
+    "comicId": "5ebfcb54acc698003475433e",
+    "comicSlug": "sol-city",
+    "id": "60990fe6dff1c9005a600664",
+    "slug": "chuong-11",
+    "name": "chương 11",
+    "view": 35
+  },
+  {
+    "comicId": "5ebfcb54acc698003475433e",
+    "comicSlug": "sol-city",
+    "id": "60990ff1138537005ee8f77f",
+    "slug": "chuong-12",
+    "name": "chương 12",
+    "view": 31
+  },
+  {
+    "comicId": "5ebfcb54acc698003475433e",
+    "comicSlug": "sol-city",
+    "id": "60990ffedff1c9005a600666",
+    "slug": "chuong-13",
+    "name": "chương 13",
+    "view": 36
+  },
+  {
+    "comicId": "5ebfcb54acc698003475433e",
+    "comicSlug": "sol-city",
+    "id": "60991009138537005ee8f781",
+    "slug": "chuong-14",
+    "name": "chương 14",
+    "view": 35
+  },
+  {
+    "comicId": "5ebfcb54acc698003475433e",
+    "comicSlug": "sol-city",
+    "id": "60991017dff1c9005a600668",
+    "slug": "chuong-15",
+    "name": "chương 15",
+    "view": 33
+  },
+  {
+    "comicId": "5ebfcb54acc698003475433e",
+    "comicSlug": "sol-city",
+    "id": "60991021138537005ee8f783",
+    "slug": "chuong-16",
+    "name": "chương 16",
+    "view": 29
+  },
+  {
+    "comicId": "5ebfcb54acc698003475433e",
+    "comicSlug": "sol-city",
+    "id": "60991034dff1c9005a60066a",
+    "slug": "chuong-17",
+    "name": "chương 17",
+    "view": 27
+  },
+  {
+    "comicId": "5ebfcb54acc698003475433e",
+    "comicSlug": "sol-city",
+    "id": "6099103f138537005ee8f78a",
+    "slug": "chuong-18",
+    "name": "chương 18",
+    "view": 26
+  },
+  {
+    "comicId": "5ebfcb54acc698003475433e",
+    "comicSlug": "sol-city",
+    "id": "60d5b3bd438fd3005ffa308b",
+    "slug": "chuong-20",
+    "name": "chương 20",
+    "view": 35
+  },
+  {
+    "comicId": "5ebfcb54acc698003475433e",
+    "comicSlug": "sol-city",
+    "id": "60d5b3ca438fd3005ffa308d",
+    "slug": "chuong-21",
+    "name": "chương 21",
+    "view": 28
+  },
+  {
+    "comicId": "5ebfcb54acc698003475433e",
+    "comicSlug": "sol-city",
+    "id": "60d5b3d6438fd3005ffa308f",
+    "slug": "chuong-22",
+    "name": "chương 22",
+    "view": 43
+  },
+  {
+    "comicId": "5ebfcceeacc6980034754343",
+    "comicSlug": "hanh-trinh-tim-kiem-bau-troi",
+    "id": "5ebfcd1eacc6980034754344",
+    "slug": "chuong-1",
+    "name": "Chương 1",
+    "view": 1034
+  },
+  {
+    "comicId": "5ebfcceeacc6980034754343",
+    "comicSlug": "hanh-trinh-tim-kiem-bau-troi",
+    "id": "5ebfcd2facc6980034754345",
+    "slug": "chuong-2",
+    "name": "Chương 2",
+    "view": 235
+  },
+  {
+    "comicId": "5ec21455acc6980034754420",
+    "comicSlug": "timelapse",
+    "id": "5ec21486acc6980034754422",
+    "slug": "chuong-1",
+    "name": "Chương 1",
+    "view": 484
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5ec2491cacc69800347544a1",
+    "slug": "chuong-1",
+    "name": "Chương 1",
+    "view": 11842
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5ec251feacc69800347544cf",
+    "slug": "chuong-2",
+    "name": "Chương 2",
+    "view": 5252
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5ec281b8acc6980034754524",
+    "slug": "chuong-3",
+    "name": "Chương 3",
+    "view": 4686
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5ec281c9acc6980034754525",
+    "slug": "chuong-4",
+    "name": "Chương 4",
+    "view": 4148
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5ecb8f7f0687870034da800a",
+    "slug": "chuong-5",
+    "name": "Chương 5",
+    "view": 3516
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5ed46c1fa268220034e732de",
+    "slug": "chuong-6",
+    "name": "Chương 6",
+    "view": 3173
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5edde400e3d0a70034a6633e",
+    "slug": "chuong-7",
+    "name": "Chương 7",
+    "view": 2971
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5ee758a0e3d0a70034a6694a",
+    "slug": "chuong-8",
+    "name": "Chương 8",
+    "view": 2808
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5ef068a578c5390034f5f65b",
+    "slug": "chuong-9",
+    "name": "Chương 9",
+    "view": 2477
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5ef96454f6e78e1592773b72",
+    "slug": "chuong-10",
+    "name": "Chương 10",
+    "view": 2498
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5f0be530cc004a0034845f87",
+    "slug": "chuong-11",
+    "name": "Chương 11",
+    "view": 2151
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5f0c3700cc004a0034846050",
+    "slug": "chuong-12",
+    "name": "Chương 12",
+    "view": 1985
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5f154cbecc004a0034846903",
+    "slug": "chuong-13",
+    "name": "Chương 13",
+    "view": 1986
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5f1eb5a6cc004a0034846f89",
+    "slug": "chuong-14",
+    "name": "Chương 14",
+    "view": 1925
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5f27b1c80500af00348c6823",
+    "slug": "chuong-15",
+    "name": "Chương 15",
+    "view": 1711
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5f3a2de64b64f5bc5c7f32da",
+    "slug": "chuong-16",
+    "name": "Chương 16",
+    "view": 1545
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5f435f5a240b7c0034f17daa",
+    "slug": "chuong-17",
+    "name": "Chương 17",
+    "view": 1400
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5f436e0c240b7c0034f17ddb",
+    "slug": "chuong-18",
+    "name": "Chương 18",
+    "view": 1400
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5f4ce33d42243d00353e7e6c",
+    "slug": "chuong-19",
+    "name": "Chương 19",
+    "view": 1370
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5f56060fc26928003425e743",
+    "slug": "chuong-20",
+    "name": "Chương 20",
+    "view": 1390
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5f6863b8e4478183f62d1a74",
+    "slug": "chuong-21",
+    "name": "Chương 21",
+    "view": 1252
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5f6863b8e4478183f62d1a76",
+    "slug": "chuong-22",
+    "name": "Chương 22",
+    "view": 1217
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5f716c45537ed50034a68565",
+    "slug": "chuong-23",
+    "name": "Chương 23",
+    "view": 1177
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5f7ac98d537ed50034a6992f",
+    "slug": "chuong-24",
+    "name": "Chương 24",
+    "view": 1102
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5f84080224a01f00376ec45a",
+    "slug": "chuong-25",
+    "name": "Chương 25",
+    "view": 1084
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5f8d357741504c003489aaad",
+    "slug": "chuong-26",
+    "name": "Chương 26",
+    "view": 974
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5f967833ba9c7e003490db9a",
+    "slug": "chuong-27",
+    "name": "Chương 27",
+    "view": 945
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5f9f8fa4f2a01000344a3232",
+    "slug": "chuong-28",
+    "name": "Chương 28",
+    "view": 863
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5fa904152b1bd200354e4665",
+    "slug": "chuong-29",
+    "name": "Chương 29",
+    "view": 833
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5fb2462d2b1bd200354e510b",
+    "slug": "chuong-30",
+    "name": "Chương 30",
+    "view": 819
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5fbb8058e85d6100347acaef",
+    "slug": "chuong-31",
+    "name": "Chương 31",
+    "view": 783
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5fbb805fe85d6100347acaf2",
+    "slug": "chuong-32",
+    "name": "Chương 32",
+    "view": 724
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5fbb8066e85d6100347acaf4",
+    "slug": "chuong-33",
+    "name": "Chương 33",
+    "view": 677
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5fbb806ee85d6100347acaf6",
+    "slug": "chuong-34",
+    "name": "Chương 34",
+    "view": 639
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5fbb8074e85d6100347acaf8",
+    "slug": "chuong-35",
+    "name": "Chương 35",
+    "view": 606
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5fbb807be85d6100347acafb",
+    "slug": "chuong-36",
+    "name": "Chương 36",
+    "view": 593
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5fbb8083e85d6100347acafd",
+    "slug": "chuong-37",
+    "name": "Chương 37",
+    "view": 587
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5ffc1e59169d8d003411ec84",
+    "slug": "chuong-38",
+    "name": "Chương 38",
+    "view": 551
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5ffc1e60169d8d003411ec86",
+    "slug": "chuong-39",
+    "name": "Chương 39",
+    "view": 547
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5ffc1e67169d8d003411ec88",
+    "slug": "chuong-40",
+    "name": "Chương 40",
+    "view": 554
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5ffc1e6f169d8d003411ec8a",
+    "slug": "chuong-41",
+    "name": "Chương 41",
+    "view": 521
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5ffc1e76169d8d003411ec8c",
+    "slug": "chuong-42",
+    "name": "Chương 42",
+    "view": 512
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5ffc1e7f169d8d003411ec8e",
+    "slug": "chuong-43",
+    "name": "Chương 43",
+    "view": 511
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "5ffc1e8a169d8d003411ec90",
+    "slug": "chuong-44",
+    "name": "Chương 44",
+    "view": 478
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "603cac8e2527e200344247a5",
+    "slug": "chuong-45",
+    "name": "Chương 45",
+    "view": 457
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "603cacac2527e200344247a8",
+    "slug": "chuong-46",
+    "name": "Chương 46",
+    "view": 436
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "603cacc72527e200344247ab",
+    "slug": "chuong-47",
+    "name": "Chương 47",
+    "view": 437
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "603cacd52527e200344247ae",
+    "slug": "chuong-48",
+    "name": "Chương 48",
+    "view": 436
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "603caced2527e200344247b1",
+    "slug": "chuong-49",
+    "name": "Chương 49",
+    "view": 433
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "603cacf02527e200344247b3",
+    "slug": "chuong-50",
+    "name": "Chương 50",
+    "view": 481
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "603cad0e2527e200344247b7",
+    "slug": "chuong-51",
+    "name": "Chương 51",
+    "view": 458
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "603cad1e2527e200344247ba",
+    "slug": "chuong-52",
+    "name": "Chương 52",
+    "view": 430
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "603cad2c2527e200344247bd",
+    "slug": "chuong-53",
+    "name": "Chương 53",
+    "view": 438
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "603cad3e2527e200344247c0",
+    "slug": "chuong-54",
+    "name": "Chương 54",
+    "view": 424
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "603cad4c2527e200344247c3",
+    "slug": "chuong-55",
+    "name": "Chương 55",
+    "view": 423
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "609ce53f91dcec0059e4830f",
+    "slug": "chuong-56",
+    "name": "Chương 56",
+    "view": 429
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "609ce75b1b812b005479808b",
+    "slug": "chuong-57",
+    "name": "Chương 57",
+    "view": 422
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "609ce762a886e9005a1b81b2",
+    "slug": "chuong-58",
+    "name": "Chương 58",
+    "view": 400
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "609ce76c1b812b005479808d",
+    "slug": "chuong-59",
+    "name": "Chương 59",
+    "view": 402
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "609ce773a886e9005a1b81b4",
+    "slug": "chuong-60",
+    "name": "Chương 60",
+    "view": 415
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "60d06a73bbd401005a8da6e4",
+    "slug": "chuong-61",
+    "name": "Chương 61",
+    "view": 404
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "60d06a7cac3edd005a789594",
+    "slug": "chuong-62",
+    "name": "Chương 62",
+    "view": 372
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "60d06a84438fd3005ffa2d69",
+    "slug": "chuong-63",
+    "name": "Chương 63",
+    "view": 355
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "60d06a8d652d4b00556b530c",
+    "slug": "chuong-64",
+    "name": "Chương 64",
+    "view": 355
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "60d06a95bbd401005a8da6e6",
+    "slug": "chuong-65",
+    "name": "Chương 65",
+    "view": 372
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "60d06aa5ac3edd005a789596",
+    "slug": "chuong-66",
+    "name": "Chương 66",
+    "view": 378
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "60d06ab2438fd3005ffa2d6b",
+    "slug": "chuong-67",
+    "name": "Chương 67",
+    "view": 381
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "60d06abd652d4b00556b530e",
+    "slug": "chuong-68",
+    "name": "Chương 68",
+    "view": 419
+  },
+  {
+    "comicId": "5ec24871acc698003475449e",
+    "comicSlug": "xin-hay-cuu-toi",
+    "id": "60d06ac5bbd401005a8da6e8",
+    "slug": "chuong-69",
+    "name": "Chương 69 (END)",
+    "view": 725
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "5ec2490cacc69800347544a0",
+    "slug": "chuong-0",
+    "name": "Chương 0",
+    "view": 1096
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "5ec24950acc69800347544a2",
+    "slug": "chuong-1",
+    "name": "Chương 1",
+    "view": 665
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "5ec24962acc69800347544a3",
+    "slug": "chuong-2",
+    "name": "Chương 2",
+    "view": 484
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "5f33bd4b75e3780034b44d17",
+    "slug": "chuong-3",
+    "name": "Chương 3",
+    "view": 342
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "5f33bd5a75e3780034b44d19",
+    "slug": "chuong-4",
+    "name": "Chương 4",
+    "view": 316
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "5f33bd6575e3780034b44d1b",
+    "slug": "chuong-5",
+    "name": "Chương 5",
+    "view": 306
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "612de20031f77970277bb9ca",
+    "slug": "chuong-6",
+    "name": "Chương 6",
+    "view": 176
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "618b435c81861671d568c75e",
+    "slug": "chuong-7",
+    "name": "Chương 7",
+    "view": 116
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "618b437281861671d568c760",
+    "slug": "chuong-8",
+    "name": "Chương 8",
+    "view": 106
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "618b437481861671d568c762",
+    "slug": "chuong-9",
+    "name": "Chương 9",
+    "view": 122
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "618b437681861671d568c764",
+    "slug": "chuong-10",
+    "name": "Chương 10",
+    "view": 92
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "618b437781861671d568c766",
+    "slug": "chuong-11",
+    "name": "Chương 11",
+    "view": 86
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "619f622b4ae5c4e93994d550",
+    "slug": "chuong-12",
+    "name": "Chương 12",
+    "view": 83
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "619f622c4ae5c4e93994d552",
+    "slug": "chuong-13",
+    "name": "Chương 13",
+    "view": 76
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "619f62334ae5c4e93994d554",
+    "slug": "chuong-14",
+    "name": "Chương 14",
+    "view": 72
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "619f623a4ae5c4e93994d556",
+    "slug": "chuong-15",
+    "name": "Chương 15",
+    "view": 65
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "619f62424ae5c4e93994d558",
+    "slug": "chuong-16",
+    "name": "Chương 16",
+    "view": 68
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "61af061d560bd5005ef88630",
+    "slug": "chuong-17",
+    "name": "Chương 17",
+    "view": 61
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "61af061e560bd5005ef88632",
+    "slug": "chuong-18",
+    "name": "Chương 18",
+    "view": 59
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "61af061e560bd5005ef88634",
+    "slug": "chuong-19",
+    "name": "Chương 19",
+    "view": 67
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "61af061f560bd5005ef88636",
+    "slug": "chuong-20",
+    "name": "Chương 20",
+    "view": 64
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "61af061f560bd5005ef88638",
+    "slug": "chuong-21",
+    "name": "Chương 21",
+    "view": 74
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "61c154b341ab0d0059bc31e2",
+    "slug": "chuong-22",
+    "name": "Chương 22",
+    "view": 43
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "61c154b4f2e004005f4f0cea",
+    "slug": "chuong-23",
+    "name": "Chương 23",
+    "view": 42
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "61c154b5d10ca12bb082b031",
+    "slug": "chuong-24",
+    "name": "Chương 24",
+    "view": 43
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "61c154b541ab0d0059bc31e4",
+    "slug": "chuong-25",
+    "name": "Chương 25",
+    "view": 41
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "61c154b6f2e004005f4f0cec",
+    "slug": "chuong-26",
+    "name": "Chương 26",
+    "view": 38
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "61c154b6d10ca12bb082b033",
+    "slug": "chuong-27",
+    "name": "Chương 27",
+    "view": 36
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "61c154b741ab0d0059bc31e6",
+    "slug": "chuong-28",
+    "name": "Chương 28",
+    "view": 38
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "61c154b8f2e004005f4f0cee",
+    "slug": "chuong-29",
+    "name": "Chương 29",
+    "view": 40
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "61c154b8d10ca12bb082b035",
+    "slug": "chuong-30",
+    "name": "Chương 30",
+    "view": 39
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "61c154b941ab0d0059bc31e8",
+    "slug": "chuong-31",
+    "name": "Chương 31",
+    "view": 42
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "61cc070457f9f51a6fbadd22",
+    "slug": "chuong-32",
+    "name": "Chương 32 ",
+    "view": 40
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "61cc070857f9f51a6fbadd24",
+    "slug": "chuong-33",
+    "name": "Chương 33",
+    "view": 40
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "61cc071457f9f51a6fbadd26",
+    "slug": "chuong-34",
+    "name": "Chương 34",
+    "view": 41
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "61cc071757f9f51a6fbadd28",
+    "slug": "chuong-35",
+    "name": "Chương 35",
+    "view": 39
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "61cc071957f9f51a6fbadd2a",
+    "slug": "chuong-36",
+    "name": "Chương 36",
+    "view": 41
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "61e93475a5ac4c005ce7a2ea",
+    "slug": "chuong-37",
+    "name": "Chương 37 ",
+    "view": 28
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "61e93476a5ac4c005ce7a2ec",
+    "slug": "chuong-38",
+    "name": "Chương 38",
+    "view": 30
+  },
+  {
+    "comicId": "5ec248f0acc698003475449f",
+    "comicSlug": "exile",
+    "id": "61e93477a5ac4c005ce7a2ee",
+    "slug": "chuong-39",
+    "name": "Chương 39",
+    "view": 50
+  },
+  {
+    "comicId": "5ec4ebfcacc6980034754779",
+    "comicSlug": "hell-door",
+    "id": "5ec4ec10acc698003475477a",
+    "slug": "chuong-1",
+    "name": "Chương 1",
+    "view": 515
+  },
+  {
+    "comicId": "5ec4ebfcacc6980034754779",
+    "comicSlug": "hell-door",
+    "id": "5ec4ec16acc698003475477b",
+    "slug": "chuong-2",
+    "name": "Chương 2",
+    "view": 327
+  },
+  {
+    "comicId": "5ec4ebfcacc6980034754779",
+    "comicSlug": "hell-door",
+    "id": "5ec4ec4facc698003475477c",
+    "slug": "chuong-3",
+    "name": "Chương 3",
+    "view": 307
+  },
+  {
+    "comicId": "5ec4ebfcacc6980034754779",
+    "comicSlug": "hell-door",
+    "id": "5ec4ec5bacc698003475477d",
+    "slug": "chuong-4",
+    "name": "Chương 4",
+    "view": 262
+  },
+  {
+    "comicId": "5ec4ebfcacc6980034754779",
+    "comicSlug": "hell-door",
+    "id": "5ec4ec71acc698003475477e",
+    "slug": "chuong-5",
+    "name": "Chương 5",
+    "view": 242
+  },
+  {
+    "comicId": "5ec4ebfcacc6980034754779",
+    "comicSlug": "hell-door",
+    "id": "5ec4ec7dacc698003475477f",
+    "slug": "chuong-6",
+    "name": "Chương 6",
+    "view": 240
+  },
+  {
+    "comicId": "5ec4ebfcacc6980034754779",
+    "comicSlug": "hell-door",
+    "id": "5ec4ec8facc6980034754780",
+    "slug": "chuong-7",
+    "name": "Chương 7",
+    "view": 183
+  },
+  {
+    "comicId": "5ec4ebfcacc6980034754779",
+    "comicSlug": "hell-door",
+    "id": "5ec4ec9dacc6980034754781",
+    "slug": "chuong-8",
+    "name": "Chương 8",
+    "view": 216
+  },
+  {
+    "comicId": "5ec4ebfcacc6980034754779",
+    "comicSlug": "hell-door",
+    "id": "5ec4ecadacc6980034754782",
+    "slug": "chuong-9",
+    "name": "Chương 9",
+    "view": 185
+  },
+  {
+    "comicId": "5ec4ebfcacc6980034754779",
+    "comicSlug": "hell-door",
+    "id": "5ec4ecbcacc6980034754783",
+    "slug": "ket-thuc",
+    "name": "Kết thúc",
+    "view": 252
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5ec4f0daacc698003475479b",
+    "slug": "chuong-1",
+    "name": "Chương 1",
+    "view": 7461
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5ec4f0e9acc698003475479c",
+    "slug": "chuong-2",
+    "name": "Chương 2",
+    "view": 4630
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5ec4f0f7acc698003475479d",
+    "slug": "chuong-3",
+    "name": "Chương 3",
+    "view": 3028
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5ec4f115acc698003475479e",
+    "slug": "chuong-4",
+    "name": "Chương 4",
+    "view": 2537
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5ec4f125acc698003475479f",
+    "slug": "chuong-5",
+    "name": "Chương 5",
+    "view": 2407
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5ec4f133acc69800347547a0",
+    "slug": "chuong-6",
+    "name": "Chương 6",
+    "view": 2319
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5ec4f141acc69800347547a1",
+    "slug": "chuong-7",
+    "name": "Chương 7",
+    "view": 2322
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5ec4f14facc69800347547a2",
+    "slug": "chuong-8",
+    "name": "Chương 8",
+    "view": 2295
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5ec4f15facc69800347547a3",
+    "slug": "chuong-9",
+    "name": "Chương 9",
+    "view": 2320
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5ec4f16facc69800347547a4",
+    "slug": "chuong-10",
+    "name": "Chương 10",
+    "view": 2454
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5ec4f4fcacc69800347547aa",
+    "slug": "chuong-11",
+    "name": "Chương 11",
+    "view": 2315
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5ed0c2e5a268220034e731e9",
+    "slug": "chuong-12",
+    "name": "Chương 12",
+    "view": 2201
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5edde4a7e3d0a70034a66340",
+    "slug": "chuong-13",
+    "name": "Chương 13",
+    "view": 2117
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5edde4b5e3d0a70034a66342",
+    "slug": "chuong-14",
+    "name": "Chương 14",
+    "view": 2094
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5ee31d64e3d0a70034a667bd",
+    "slug": "chuong-15",
+    "name": "Chương 15",
+    "view": 2116
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5ef2c9fe7bd02a0034a8ff6c",
+    "slug": "chuong-16",
+    "name": "Chương 16",
+    "view": 1821
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5ef2ca0b7bd02a0034a8ff6f",
+    "slug": "chuong-17",
+    "name": "Chương 17",
+    "view": 1766
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5efda63ef6e78e15927740be",
+    "slug": "chuong-18",
+    "name": "Chương 18",
+    "view": 1718
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5f044b68cc004a0034845a03",
+    "slug": "chuong-19",
+    "name": "Chương 19",
+    "view": 1666
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5f06de2acc004a0034845da5",
+    "slug": "chuong-20",
+    "name": "Chương 20",
+    "view": 1702
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5f102644cc004a00348465d2",
+    "slug": "chuong-21",
+    "name": "Chương 21",
+    "view": 1602
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5f19690fcc004a0034846d3c",
+    "slug": "chuong-22",
+    "name": "Chương 22",
+    "view": 1504
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5f229ea1cc004a0034847258",
+    "slug": "chuong-23",
+    "name": "Chương 23",
+    "view": 1421
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5f2d31ed75e3780034b44a3e",
+    "slug": "chuong-24",
+    "name": "Chương 24",
+    "view": 1357
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5f36557275e3780034b44f35",
+    "slug": "chuong-25",
+    "name": "Chương 25",
+    "view": 1333
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5f3a5ab64b64f5bc5c7f3373",
+    "slug": "chuong-26",
+    "name": "Chương 26",
+    "view": 1270
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5f3fa32f240b7c0034f17cb8",
+    "slug": "chuong-27",
+    "name": "Chương 27",
+    "view": 1228
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5f45c7fac18e1000348e356f",
+    "slug": "chuong-28",
+    "name": "Chương 28",
+    "view": 1166
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5f48e10742243d00353e7c42",
+    "slug": "chuong-29",
+    "name": "Chương 29",
+    "view": 1118
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5f4db3e742243d00353e7f62",
+    "slug": "chuong-30",
+    "name": "Chương 30",
+    "view": 1110
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5f521ca00b135900344f382a",
+    "slug": "chuong-31",
+    "name": "Chương 31",
+    "view": 1064
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5f5ae3f6c26928003425eb65",
+    "slug": "chuong-32",
+    "name": "Chương 32",
+    "view": 1028
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5f5ae3ffc26928003425eb67",
+    "slug": "chuong-33",
+    "name": "Chương 33",
+    "view": 1019
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5f641aa0e4478183f62d190d",
+    "slug": "chuong-34",
+    "name": "Chương 34",
+    "view": 1013
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5f6963e7e4478183f62d1d2c",
+    "slug": "chuong-35",
+    "name": "Chương 35",
+    "view": 987
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5f6c5a1bb4ffb800341fc1d4",
+    "slug": "chuong-36",
+    "name": "Chương 36",
+    "view": 998
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5f71adfe537ed50034a68660",
+    "slug": "chuong-37",
+    "name": "Chương 37",
+    "view": 976
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5f75b54b537ed50034a69336",
+    "slug": "chuong-38",
+    "name": "Chương 38",
+    "view": 983
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5f7af9cb537ed50034a69a94",
+    "slug": "chuong-39",
+    "name": "Chương 39",
+    "view": 1010
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5f803e0b4e634d0034e2eac8",
+    "slug": "chuong-40",
+    "name": "Chương 40",
+    "view": 1023
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5f8438b724a01f00376ec54e",
+    "slug": "chuong-41",
+    "name": "Chương 41",
+    "view": 1000
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5f89044441504c003489a954",
+    "slug": "chuong-42",
+    "name": "Chương 42",
+    "view": 909
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5f8d80af41504c003489ac19",
+    "slug": "chuong-43",
+    "name": "Chương 43",
+    "view": 911
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5f9151e7fdb8160034e6cb4f",
+    "slug": "chuong-44",
+    "name": "Chương 44",
+    "view": 887
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5f969283ba9c7e003490dc07",
+    "slug": "chuong-45",
+    "name": "Chương 45",
+    "view": 870
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5f9a9521f2a01000344a2fca",
+    "slug": "chuong-46",
+    "name": "Chương 46",
+    "view": 871
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5f9fe702f2a01000344a32d3",
+    "slug": "chuong-47",
+    "name": "Chương 47",
+    "view": 855
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5fa3d186f2a01000344a3758",
+    "slug": "extra-2",
+    "name": "Extra 2",
+    "view": 871
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5faa3bc72b1bd200354e47f3",
+    "slug": "chuong-49",
+    "name": "Chương 49",
+    "view": 848
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5fad02cb2b1bd200354e4aaf",
+    "slug": "chap-50",
+    "name": "Chap 50",
+    "view": 857
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5fb237742b1bd200354e4f9f",
+    "slug": "chuong-51",
+    "name": "Chương 51",
+    "view": 817
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5fb64315e85d6100347ac7e8",
+    "slug": "chuong-52",
+    "name": "Chương 52",
+    "view": 809
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5fbb92ade85d6100347acb69",
+    "slug": "chuong-53",
+    "name": "Chương 53",
+    "view": 774
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5fbf7798ca8af00034b84330",
+    "slug": "chuong-54",
+    "name": "Chương 54",
+    "view": 770
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5fc4cbb9ca8af00034b845cf",
+    "slug": "chuong-55",
+    "name": "Chương 55",
+    "view": 766
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5fc898e7ca8af00034b84a7c",
+    "slug": "chuong-56",
+    "name": "Chương 56",
+    "view": 726
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5fcdf5372634390034322294",
+    "slug": "chuong-57",
+    "name": "Chương 57",
+    "view": 709
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5fd1e5db26343900343224db",
+    "slug": "chuong-58",
+    "name": "Chương 58",
+    "view": 710
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5fd73c0eebbfb200340c5629",
+    "slug": "chuong-59",
+    "name": "Chương 59",
+    "view": 693
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5fdb33ef26343900343228eb",
+    "slug": "chuong-60",
+    "name": "Chương 60",
+    "view": 711
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5fe06354ebbfb200340c583b",
+    "slug": "chuong-61",
+    "name": "Chương 61",
+    "view": 686
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5fe41e693df160003464a4ee",
+    "slug": "chuong-62",
+    "name": "Chương 62",
+    "view": 671
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "5fe97e2d498675270219f0f9",
+    "slug": "chuong-63",
+    "name": "Chương 63",
+    "view": 709
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "60644da35727e40034c06ea1",
+    "slug": "chuong-64",
+    "name": "Chương 64",
+    "view": 492
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "60644dab5727e40034c06ea3",
+    "slug": "chuong-65",
+    "name": "Chương 65",
+    "view": 474
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "60644db25727e40034c06ea5",
+    "slug": "chuong-66",
+    "name": "Chương 66",
+    "view": 471
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "60644dbb5727e40034c06ea7",
+    "slug": "chuong-67",
+    "name": "Chương 67",
+    "view": 459
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "607ea9b725a0770059b65090",
+    "slug": "chuong-68",
+    "name": "Chương 68",
+    "view": 447
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "607ea9bf9ce62c005b354da4",
+    "slug": "chuong-69",
+    "name": "Chương 69",
+    "view": 442
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "60911eeb29dfb400590f847b",
+    "slug": "chuong-70",
+    "name": "Chương 70",
+    "view": 451
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "60911ef2f6ebb85dc76953fa",
+    "slug": "chuong-71",
+    "name": "Chương 71",
+    "view": 443
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "60911ef829dfb400590f847d",
+    "slug": "chuong-72",
+    "name": "Chương 72",
+    "view": 435
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "60911efef6ebb85dc76953fc",
+    "slug": "chuong-73",
+    "name": "Chương 73",
+    "view": 465
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "60911f0929dfb400590f847f",
+    "slug": "chuong-74",
+    "name": "Chương 74",
+    "view": 413
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "60911f15f6ebb85dc76953fe",
+    "slug": "chuong-75",
+    "name": "Chương 75",
+    "view": 384
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "60b9813534d1e3005a475eec",
+    "slug": "chuong-76",
+    "name": "Chương 76",
+    "view": 364
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "60b9813d18974d005a4e3680",
+    "slug": "chuong-77",
+    "name": "Chương 77",
+    "view": 386
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "60b9814534d1e3005a475eee",
+    "slug": "chuong-78",
+    "name": "Chương 78",
+    "view": 334
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "60b9814f18974d005a4e3682",
+    "slug": "chuong-79",
+    "name": "Chương 79",
+    "view": 349
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "60b9815534d1e3005a475ef0",
+    "slug": "chuong-80",
+    "name": "Chương 80",
+    "view": 312
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "60b9816334d1e3005a475ef2",
+    "slug": "chuong-81",
+    "name": "Chương 81",
+    "view": 299
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "60de5e43b7ed4d00564e3608",
+    "slug": "chuong-82",
+    "name": "Chương 82",
+    "view": 261
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "60de5e4bb7ed4d00564e360a",
+    "slug": "chuong-83",
+    "name": "Chương 83",
+    "view": 254
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "60de5e61b7ed4d00564e360c",
+    "slug": "chuong-84",
+    "name": "Chương 84",
+    "view": 202
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "60de5e69b7ed4d00564e360e",
+    "slug": "chuong-85",
+    "name": "Chương 85",
+    "view": 208
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "60de5e72b7ed4d00564e3610",
+    "slug": "chuong-86",
+    "name": "Chương 86",
+    "view": 201
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "619388d7759572005246c6e0",
+    "slug": "chuong-87",
+    "name": "Chương 87",
+    "view": 205
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "619f5adef98e72005c908e25",
+    "slug": "chuong-88",
+    "name": "Chương 88",
+    "view": 195
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "619f5adecc32ed005ba1260b",
+    "slug": "chuong-89",
+    "name": "Chương 89",
+    "view": 203
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "61b1d951d04685005bbc2e75",
+    "slug": "chuong-90",
+    "name": "Chương 90",
+    "view": 193
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "61b1d951d04685005bbc2e77",
+    "slug": "chuong-91",
+    "name": "Chương 91",
+    "view": 196
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "61b1d952d04685005bbc2e79",
+    "slug": "chuong-92",
+    "name": "Chương 92",
+    "view": 233
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "61dd5b25c3dc4a7926296ff2",
+    "slug": "chuong-93",
+    "name": "Chương 93",
+    "view": 127
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "61dd5b26c3dc4a7926296ff4",
+    "slug": "chuong-94",
+    "name": "Chương 94",
+    "view": 124
+  },
+  {
+    "comicId": "5ec4f07cacc698003475479a",
+    "comicSlug": "be-good-my-master",
+    "id": "61dd5b26c3dc4a7926296ff6",
+    "slug": "chuong-95",
+    "name": "Chương 95",
+    "view": 183
+  },
+  {
+    "comicId": "5ec6367c4b80f100348ddd2f",
+    "comicSlug": "armor-ranger-prime",
+    "id": "5ec6368d4b80f100348ddd30",
+    "slug": "chuong-1",
+    "name": "Chương 1",
+    "view": 2183
+  },
+  {
+    "comicId": "5ec6367c4b80f100348ddd2f",
+    "comicSlug": "armor-ranger-prime",
+    "id": "5efda779f6e78e15927740c4",
+    "slug": "chuong-2",
+    "name": "Chương 2",
+    "view": 349
+  },
+  {
+    "comicId": "5ec780c80687870034da7edd",
+    "comicSlug": "tiep-xuc-chi-mang",
+    "id": "5ec7824c0687870034da7ede",
+    "slug": "chuong-1",
+    "name": "Chương 1",
+    "view": 18993
+  },
+  {
+    "comicId": "5ec780c80687870034da7edd",
+    "comicSlug": "tiep-xuc-chi-mang",
+    "id": "5ec787eb0687870034da7edf",
+    "slug": "chuong-2",
+    "name": "Chương 2",
+    "view": 8015
+  },
+  {
+    "comicId": "5ec780c80687870034da7edd",
+    "comicSlug": "tiep-xuc-chi-mang",
+    "id": "5ec7886f0687870034da7ee0",
+    "slug": "chuong-3",
+    "name": "Chương 3",
+    "view": 5439
+  },
+  {
+    "comicId": "5ec780c80687870034da7edd",
+    "comicSlug": "tiep-xuc-chi-mang",
+    "id": "5ec789030687870034da7ee1",
+    "slug": "chuong-4",
+    "name": "Chương 4",
+    "view": 5329
+  },
+  {
+    "comicId": "5ecb7c200687870034da7fe0",
+    "comicSlug": "chuyen-cua-rong",
+    "id": "5ecb7c960687870034da7fe1",
+    "slug": "chuong-1",
+    "name": "Chương 1",
+    "view": 4587
+  },
+  {
+    "comicId": "5ecb7c200687870034da7fe0",
+    "comicSlug": "chuyen-cua-rong",
+    "id": "5ecb7ca50687870034da7fe2",
+    "slug": "chuong-2",
+    "name": "Chương 2",
+    "view": 3232
+  },
+  {
+    "comicId": "5ecb7c200687870034da7fe0",
+    "comicSlug": "chuyen-cua-rong",
+    "id": "5ecb7cb00687870034da7fe3",
+    "slug": "chuong-3",
+    "name": "Chương 3",
+    "view": 2719
+  },
+  {
+    "comicId": "5ecb7c200687870034da7fe0",
+    "comicSlug": "chuyen-cua-rong",
+    "id": "5ecb7cba0687870034da7fe4",
+    "slug": "chuong-4",
+    "name": "Chương 4",
+    "view": 2371
+  },
+  {
+    "comicId": "5ecb7c200687870034da7fe0",
+    "comicSlug": "chuyen-cua-rong",
+    "id": "5ecb7cd00687870034da7fe5",
+    "slug": "chuong-5",
+    "name": "Chương 5",
+    "view": 2103
+  },
+  {
+    "comicId": "5ecb7c200687870034da7fe0",
+    "comicSlug": "chuyen-cua-rong",
+    "id": "5ecb7cdc0687870034da7fe6",
+    "slug": "chuong-6",
+    "name": "Chương 6",
+    "view": 1945
+  },
+  {
+    "comicId": "5ecb7c200687870034da7fe0",
+    "comicSlug": "chuyen-cua-rong",
+    "id": "5ecb7ce80687870034da7fe7",
+    "slug": "chuong-7",
+    "name": "Chương 7",
+    "view": 1876
+  },
+  {
+    "comicId": "5ecb7c200687870034da7fe0",
+    "comicSlug": "chuyen-cua-rong",
+    "id": "5ecb7cfe0687870034da7fe8",
+    "slug": "chuong-8",
+    "name": "Chương 8",
+    "view": 1714
+  },
+  {
+    "comicId": "5ecb7c200687870034da7fe0",
+    "comicSlug": "chuyen-cua-rong",
+    "id": "5ecb7d0b0687870034da7fe9",
+    "slug": "chuong-9",
+    "name": "Chương 9",
+    "view": 1648
+  },
+  {
+    "comicId": "5ecb7c200687870034da7fe0",
+    "comicSlug": "chuyen-cua-rong",
+    "id": "5ecb7d190687870034da7fea",
+    "slug": "chuong-10",
+    "name": "Chương 10",
+    "view": 1636
+  },
+  {
+    "comicId": "5ecb7c200687870034da7fe0",
+    "comicSlug": "chuyen-cua-rong",
+    "id": "5ed8c865a268220034e736b3",
+    "slug": "chuong-11",
+    "name": "Chương 11",
+    "view": 1501
+  },
+  {
+    "comicId": "5ecb7c200687870034da7fe0",
+    "comicSlug": "chuyen-cua-rong",
+    "id": "5ee31cefe3d0a70034a667ba",
+    "slug": "chuong-12",
+    "name": "Chương 12",
+    "view": 1448
+  },
+  {
+    "comicId": "5ecb7c200687870034da7fe0",
+    "comicSlug": "chuyen-cua-rong",
+    "id": "5ef2cf367bd02a0034a8ff7f",
+    "slug": "chuong-13",
+    "name": "Chương 13",
+    "view": 1295
+  },
+  {
+    "comicId": "5ecb7c200687870034da7fe0",
+    "comicSlug": "chuyen-cua-rong",
+    "id": "5f044bbacc004a0034845a09",
+    "slug": "chuong-14",
+    "name": "Chương 14",
+    "view": 1284
+  },
+  {
+    "comicId": "5ecb7c200687870034da7fe0",
+    "comicSlug": "chuyen-cua-rong",
+    "id": "5f196964cc004a0034846d4d",
+    "slug": "chuong-15",
+    "name": "Chương 15",
+    "view": 1094
+  },
+  {
+    "comicId": "5ecb7c200687870034da7fe0",
+    "comicSlug": "chuyen-cua-rong",
+    "id": "5f36558b75e3780034b44f3b",
+    "slug": "chuong-16",
+    "name": "Chương 16",
+    "view": 916
+  },
+  {
+    "comicId": "5ecb7c200687870034da7fe0",
+    "comicSlug": "chuyen-cua-rong",
+    "id": "5f521cf70b135900344f382c",
+    "slug": "chuong-17",
+    "name": "Chương 17",
+    "view": 735
+  },
+  {
+    "comicId": "5ecb7c200687870034da7fe0",
+    "comicSlug": "chuyen-cua-rong",
+    "id": "5f71adda537ed50034a6865e",
+    "slug": "chuong-18",
+    "name": "Chương 18",
+    "view": 701
+  },
+  {
+    "comicId": "5ecb7c200687870034da7fe0",
+    "comicSlug": "chuyen-cua-rong",
+    "id": "5fc4cbeaca8af00034b845d3",
+    "slug": "chuong-19",
+    "name": "Chương 19",
+    "view": 594
+  },
+  {
+    "comicId": "5ecb7c200687870034da7fe0",
+    "comicSlug": "chuyen-cua-rong",
+    "id": "5fe063c5ebbfb200340c5843",
+    "slug": "chuong-20",
+    "name": "Chương 20",
+    "view": 606
+  },
+  {
+    "comicId": "5ecb96c00687870034da802f",
+    "comicSlug": "binh-doan-cao",
+    "id": "5ecb96eb0687870034da8032",
+    "slug": "chuong-1",
+    "name": "Chương 1",
+    "view": 1303
+  },
+  {
+    "comicId": "5ecb96c00687870034da802f",
+    "comicSlug": "binh-doan-cao",
+    "id": "5ecb96f80687870034da8033",
+    "slug": "chuong-2",
+    "name": "Chương 2",
+    "view": 547
+  },
+  {
+    "comicId": "5ecb96c00687870034da802f",
+    "comicSlug": "binh-doan-cao",
+    "id": "5ee31db0e3d0a70034a667c0",
+    "slug": "chuong-3",
+    "name": "Chương 3",
+    "view": 443
+  },
+  {
+    "comicId": "5ecb96c00687870034da802f",
+    "comicSlug": "binh-doan-cao",
+    "id": "5ee31de3e3d0a70034a667c3",
+    "slug": "chuong-4",
+    "name": "Chương 4",
+    "view": 469
+  },
+  {
+    "comicId": "5ecb96c00687870034da802f",
+    "comicSlug": "binh-doan-cao",
+    "id": "5ee31e1be3d0a70034a667c6",
+    "slug": "chuong-5",
+    "name": "Chương 5",
+    "view": 386
+  },
+  {
+    "comicId": "5ecb96c00687870034da802f",
+    "comicSlug": "binh-doan-cao",
+    "id": "5ee31e50e3d0a70034a667c9",
+    "slug": "chuong-6",
+    "name": "Chương 6",
+    "view": 348
+  },
+  {
+    "comicId": "5ecb96c00687870034da802f",
+    "comicSlug": "binh-doan-cao",
+    "id": "5ee31e88e3d0a70034a667cc",
+    "slug": "chuong-7",
+    "name": "Chương 7",
+    "view": 356
+  },
+  {
+    "comicId": "5ecb96c00687870034da802f",
+    "comicSlug": "binh-doan-cao",
+    "id": "5ee31ebbe3d0a70034a667cf",
+    "slug": "chuong-8",
+    "name": "Chương 8",
+    "view": 348
+  },
+  {
+    "comicId": "5ecb96c00687870034da802f",
+    "comicSlug": "binh-doan-cao",
+    "id": "5ee31ef3e3d0a70034a667d2",
+    "slug": "chuong-9",
+    "name": "Chương 9",
+    "view": 457
+  },
+  {
+    "comicId": "5ecde3fdeec86e0034f20aeb",
+    "comicSlug": "snallia",
+    "id": "5ecde415eec86e0034f20aed",
+    "slug": "chuong-1",
+    "name": "Chương 1",
+    "view": 536
+  },
+  {
+    "comicId": "5ecde3fdeec86e0034f20aeb",
+    "comicSlug": "snallia",
+    "id": "5fb48564c6f44c003950b0a4",
+    "slug": "chuong-2",
+    "name": "Chương 2",
+    "view": 85
+  },
+  {
+    "comicId": "5ecde3fdeec86e0034f20aeb",
+    "comicSlug": "snallia",
+    "id": "5fb48565c6f44c003950b0a6",
+    "slug": "chuong-3",
+    "name": "Chương 3",
+    "view": 35
+  },
+  {
+    "comicId": "5ecde3fdeec86e0034f20aeb",
+    "comicSlug": "snallia",
+    "id": "5fb48565c6f44c003950b0a8",
+    "slug": "chuong-4",
+    "name": "Chương 4",
+    "view": 33
+  },
+  {
+    "comicId": "5ecde3fdeec86e0034f20aeb",
+    "comicSlug": "snallia",
+    "id": "5fe97ed4498675270219f106",
+    "slug": "chuong-5",
+    "name": "Chương 5",
+    "view": 31
+  },
+  {
+    "comicId": "5ecf6e38eec86e0034f20ce3",
+    "comicSlug": "ke-hoach-dao-chinh-cua-diphylleia",
+    "id": "5ecf6e52eec86e0034f20ce7",
+    "slug": "chuong-1",
+    "name": "Chương 1",
+    "view": 60794
+  },
+  {
+    "comicId": "5ecf6e38eec86e0034f20ce3",
+    "comicSlug": "ke-hoach-dao-chinh-cua-diphylleia",
+    "id": "5ecf6e5feec86e0034f20ce9",
+    "slug": "chuong-2",
+    "name": "Chương 2",
+    "view": 39545
+  },
+  {
+    "comicId": "5ecf6e38eec86e0034f20ce3",
+    "comicSlug": "ke-hoach-dao-chinh-cua-diphylleia",
+    "id": "5ecf6e6beec86e0034f20ceb",
+    "slug": "chuong-3",
+    "name": "Chương 3",
+    "view": 32605
+  },
+  {
+    "comicId": "5ecf6e38eec86e0034f20ce3",
+    "comicSlug": "ke-hoach-dao-chinh-cua-diphylleia",
+    "id": "5ecf7033eec86e0034f20cf2",
+    "slug": "chuong-4",
+    "name": "Chương 4",
+    "view": 27943
+  },
+  {
+    "comicId": "5ecf6e38eec86e0034f20ce3",
+    "comicSlug": "ke-hoach-dao-chinh-cua-diphylleia",
+    "id": "5ecf7040eec86e0034f20cf4",
+    "slug": "chuong-5",
+    "name": "Chương 5",
+    "view": 26672
+  },
+  {
+    "comicId": "5ecf6e38eec86e0034f20ce3",
+    "comicSlug": "ke-hoach-dao-chinh-cua-diphylleia",
+    "id": "5ecf704beec86e0034f20cf6",
+    "slug": "chuong-6",
+    "name": "Chương 6",
+    "view": 25963
+  },
+  {
+    "comicId": "5ecf6e38eec86e0034f20ce3",
+    "comicSlug": "ke-hoach-dao-chinh-cua-diphylleia",
+    "id": "5ecf7057eec86e0034f20cf9",
+    "slug": "chuong-7",
+    "name": "Chương 7",
+    "view": 24985
+  },
+  {
+    "comicId": "5ecf6e38eec86e0034f20ce3",
+    "comicSlug": "ke-hoach-dao-chinh-cua-diphylleia",
+    "id": "5ecf7063eec86e0034f20cfb",
+    "slug": "chuong-8",
+    "name": "Chương 8",
+    "view": 25415
+  },
+  {
+    "comicId": "5ecf6e38eec86e0034f20ce3",
+    "comicSlug": "ke-hoach-dao-chinh-cua-diphylleia",
+    "id": "5eec1fc578c5390034f5f388",
+    "slug": "chuong-09",
+    "name": "Chương 09",
+    "view": 24062
+  },
+  {
+    "comicId": "5ecf6e38eec86e0034f20ce3",
+    "comicSlug": "ke-hoach-dao-chinh-cua-diphylleia",
+    "id": "5ef57f17ad46de0034ab9baf",
+    "slug": "chuong-10",
+    "name": "Chương 10",
+    "view": 24826
+  },
+  {
+    "comicId": "5ecf6e38eec86e0034f20ce3",
+    "comicSlug": "ke-hoach-dao-chinh-cua-diphylleia",
+    "id": "5f214d36cc004a00348470eb",
+    "slug": "chuong-11",
+    "name": "Chương 11",
+    "view": 21181
+  },
+  {
+    "comicId": "5ecf6e38eec86e0034f20ce3",
+    "comicSlug": "ke-hoach-dao-chinh-cua-diphylleia",
+    "id": "5f4474e6240b7c0034f17f6f",
+    "slug": "chuong-12",
+    "name": "Chương 12",
+    "view": 19377
+  },
+  {
+    "comicId": "5ed5c30ca268220034e733a4",
+    "comicSlug": "tiem-ca-phe-yeu-tinh",
+    "id": "5ed5c32fa268220034e733a6",
+    "slug": "chuong-1",
+    "name": "Chương 1",
+    "view": 9282
+  },
+  {
+    "comicId": "5ed5c30ca268220034e733a4",
+    "comicSlug": "tiem-ca-phe-yeu-tinh",
+    "id": "5ed5c427a268220034e733aa",
+    "slug": "chuong-2",
+    "name": "Chương 2",
+    "view": 5355
+  },
+  {
+    "comicId": "5ed5c30ca268220034e733a4",
+    "comicSlug": "tiem-ca-phe-yeu-tinh",
+    "id": "5ed5d255a268220034e733be",
+    "slug": "chuong-3",
+    "name": "Chương 3",
+    "view": 4899
+  },
+  {
+    "comicId": "5ed624c4a268220034e73440",
+    "comicSlug": "dark-mage",
+    "id": "5ed624dea268220034e73442",
+    "slug": "chuong-1",
+    "name": "Chương 1",
+    "view": 4923
+  },
+  {
+    "comicId": "5ed624c4a268220034e73440",
+    "comicSlug": "dark-mage",
+    "id": "5eff0e6ecc004a0034845606",
+    "slug": "chuong-2",
+    "name": "Chương 2",
+    "view": 823
+  },
+  {
+    "comicId": "5ed624c4a268220034e73440",
+    "comicSlug": "dark-mage",
+    "id": "5f28c8900500af00348c68d1",
+    "slug": "chuong-3",
+    "name": "Chương 3",
+    "view": 390
+  },
+  {
+    "comicId": "5ed624c4a268220034e73440",
+    "comicSlug": "dark-mage",
+    "id": "5f6c0e2d8e2ce100352bd0d9",
+    "slug": "chuong-4",
+    "name": "Chương 4",
+    "view": 282
+  }
+]

@@ -1,14 +1,14 @@
 import { Chapter } from 'src/modules/comics/entities/chapter.entity';
 import { Entity, JoinColumn, ManyToOne, PrimaryColumn } from 'typeorm';
-import User from './user.entity';
+import { User } from './user.entity';
 
-@Entity()
-class History {
+@Entity({ name: 'comic_history' })
+export class ComicHistory {
   @PrimaryColumn({ name: 'user_id' })
-  userId: number;
+  userId: string;
 
   @PrimaryColumn({ name: 'chapter_id' })
-  chapterId: number;
+  chapterId: string;
 
   @ManyToOne((type) => User)
   @JoinColumn({ name: 'user_id', referencedColumnName: 'id' })
@@ -18,5 +18,3 @@ class History {
   @JoinColumn({ name: 'chapter_id', referencedColumnName: 'id' })
   chapter: Chapter;
 }
-
-export default History;

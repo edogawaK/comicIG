@@ -5,10 +5,10 @@ import { Comic } from './comic.entity';
 @Entity()
 export class ComicGenres {
   @PrimaryColumn({ name: 'comic_id' })
-  comicId: number;
+  comicId: string;
 
   @PrimaryColumn({ name: 'genres_id' })
-  genresId: number;
+  genresId: string;
 
   @ManyToOne(() => Genres)
   @JoinColumn({ name: 'genres_id', referencedColumnName: 'id' })

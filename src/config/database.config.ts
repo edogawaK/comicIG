@@ -1,29 +1,23 @@
-import { TypeOrmModule } from '@nestjs/typeorm/dist/typeorm.module';
-import { Chapter } from 'src/modules/comics/entities/chapter.entity';
-import { Comic } from 'src/modules/comics/entities/comic.entity';
-import { ComicGenres } from 'src/modules/comics/entities/comicGenres.entity';
-import { Source } from 'src/modules/comics/entities/source.entity';
-import { Genres } from 'src/modules/genres/entities/genres.entity';
-import History from 'src/modules/users/entities/history.entity';
-import User from 'src/modules/users/entities/user.entity';
-
-const DatabaseConfigModule = TypeOrmModule.forRoot({
+export const DatabaseConfigDefault = {
   type: 'mysql',
   host: 'localhost',
   port: 3306,
   username: 'root',
   password: '',
   database: 'ig',
-  entities: [
-    User,
-    Comic,
-    Chapter,
-    Source,
-    Genres,
-    History,
-    Genres,
-    ComicGenres,
-  ],
+  autoLoadEntities: true,
   synchronize: true,
-});
-export default DatabaseConfigModule;
+};
+
+export const DatabaseConfig = {
+  default: DatabaseConfigDefault,
+  backup: {
+    ...DatabaseConfigDefault,
+    host: 'sql.freedb.tech',
+    port: 3306,
+    username: 'freedb_edogawa',
+    password: '?23*PZPg!EsG#Qx',
+    database: 'freedb_edogawa_ig',
+    name: 'backup',
+  },
+};

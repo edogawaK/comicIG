@@ -1,16 +1,16 @@
 import {
   Column,
+  DeleteDateColumn,
   Entity,
-  JoinColumn,
   OneToMany,
-  PrimaryGeneratedColumn,
+  PrimaryColumn,
 } from 'typeorm';
-import History from './history.entity';
+import { ComicHistory } from './history.entity';
 
 @Entity()
-class User {
-  @PrimaryGeneratedColumn()
-  id: number;
+export class User {
+  @PrimaryColumn()
+  id: string;
 
   @Column()
   email: string;
@@ -24,8 +24,9 @@ class User {
   @Column({ default: 1 })
   status: number;
 
-  @OneToMany((type) => History, (history) => history.user)
-  histories: History[];
-}
+  @DeleteDateColumn()
+  deleted: Date;
 
-export default User;
+  @OneToMany((type) => ComicHistory, (history) => history.user)
+  histories: ComicHistory[];
+}
