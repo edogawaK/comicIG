@@ -19,7 +19,7 @@ export const reportDetail = {
           current_point: 2,
         },
         {
-          question_name: 'Refesh',
+          question_name: 'Refresh',
           current_point: 2,
         },
       ],
@@ -40,7 +40,7 @@ export const reportDetail = {
           current_point: 2,
         },
         {
-          question_name: 'Refesh',
+          question_name: 'Refresh',
           current_point: 1,
         },
       ],
@@ -61,7 +61,7 @@ export const reportDetail = {
           current_point: 5,
         },
         {
-          question_name: 'Refesh',
+          question_name: 'Refresh',
           current_point: 2,
         },
       ],
@@ -82,7 +82,7 @@ export const reportDetail = {
           current_point: 1,
         },
         {
-          question_name: 'Refesh',
+          question_name: 'Refresh',
           current_point: 4,
         },
       ],
@@ -103,7 +103,7 @@ export const reportDetail = {
           current_point: 5,
         },
         {
-          question_name: 'Refesh',
+          question_name: 'Refresh',
           current_point: 2,
         },
       ],
@@ -124,7 +124,7 @@ export const reportDetail = {
           current_point: 2,
         },
         {
-          question_name: 'Refesh',
+          question_name: 'Refresh',
           current_point: 2,
         },
       ],
@@ -145,7 +145,7 @@ export const reportDetail = {
           current_point: 4,
         },
         {
-          question_name: 'Refesh',
+          question_name: 'Refresh',
           current_point: 2,
         },
       ],
@@ -166,7 +166,7 @@ export const reportDetail = {
           current_point: 5,
         },
         {
-          question_name: 'Refesh',
+          question_name: 'Refresh',
           current_point: 5,
         },
       ],
@@ -187,7 +187,7 @@ export const reportDetail = {
           current_point: 2,
         },
         {
-          question_name: 'Refesh',
+          question_name: 'Refresh',
           current_point: 2,
         },
       ],
@@ -208,7 +208,7 @@ export const reportDetail = {
           current_point: 2,
         },
         {
-          question_name: 'Refesh',
+          question_name: 'Refresh',
           current_point: 2,
         },
       ],
@@ -229,7 +229,7 @@ export const reportDetail = {
           current_point: 2,
         },
         {
-          question_name: 'Refesh',
+          question_name: 'Refresh',
           current_point: 2,
         },
       ],
@@ -250,7 +250,7 @@ export const reportDetail = {
           current_point: 2.2,
         },
         {
-          question_name: 'Refesh',
+          question_name: 'Refresh',
           current_point: 2,
         },
       ],

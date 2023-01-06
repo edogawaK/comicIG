@@ -1,0 +1,1 @@
+const main=()=>[0,2];console.log(JSON.stringify(main()))

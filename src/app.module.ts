@@ -8,6 +8,7 @@ import { ComicsModule } from './modules/comics/comic.module';
 import { GenresModule } from './modules/genres/genres.module';
 import { UsersModule } from './modules/users/users.module';
 import { MockModule } from './mock/mock.module';
+import { HackerModule } from './hacker/hacker.module';
 
 @Module({
   imports: [
@@ -17,6 +18,7 @@ import { MockModule } from './mock/mock.module';
     ComicsModule,
     GenresModule,
     MockModule,
+    HackerModule,
   ],
   providers: [
     {

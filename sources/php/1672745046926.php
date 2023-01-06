@@ -1,0 +1,1 @@
+<?php function sum($i,$j){return $i+$j;};function main(){return sum(1,1);};echo json_encode(main());
